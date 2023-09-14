@@ -1,0 +1,50 @@
+body{
+background-image: url(pexels-photo-4007744.jpeg);
+background-size: cover;
+
+}
+.Text-Feild1{
+display: flex;
+align-items: center;
+margin-bottom: 10px;
+font-family: cursive;
+padding-left: 0.3vh;
+}
+.Text-Feild2 {
+padding-left: 0.5vh;
+margin-bottom: 10px;
+font-family: cursive;
+
+}
+.Text-Feild3{
+ margin-bottom: 10px;
+font-family: cursive;
+}
+.form{
+padding-left: 8vh;
+color: white;
+border-radius: 10px;
+
+align-items: center;
+
+}
+.header {
+color: rgb(171, 21, 171);
+text-align: center;
+transition: .3s ease 
+}
+
+.header:hover{
+transform: scale(1.2)
+
+}
+
+/* Anpassad för olika storlekar */
+@media screen and (max-width: 600px){
+
+}
+
+
+
+
+
